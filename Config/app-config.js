@@ -1,5 +1,5 @@
 const data = {
-  port: 3000,
-  ip: "192.168.0.101",
+  port: SERVER_PORT_HERE,
+  ip: "SERVER_IP_HERE",
 };
 export default data;
